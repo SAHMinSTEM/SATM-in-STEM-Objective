@@ -1,4 +1,4 @@
-# Personal Objective
+# SAHM in STEM Objectives
 A community for women with an interest in all things STEM and the rapidly growing world of AI, all while balancing the daily grind of staying or working at home with children. 
 
 * Safe space for moms with an academic or professional background, or with a general interest in Tech.
