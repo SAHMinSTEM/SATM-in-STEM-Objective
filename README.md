@@ -7,4 +7,4 @@ A community for women with an interest in all things STEM and the rapidly growin
 * Inform mothers about local or virtual job fairs (particularly those that target women).
 * Provide scholarships and grants for mothers who want to further their education.
 
-The latest rabbithole : AI
+The latest rabbithole : AI and how it effects the household.
