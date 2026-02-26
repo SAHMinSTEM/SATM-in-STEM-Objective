@@ -18,3 +18,4 @@ The latest rabbithole : AI and how it effects the household.
 Review Python Fundamentals
 <br>
 Selecting the best certification for AI and Machine Learning
+<br>
