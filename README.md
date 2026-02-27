@@ -14,7 +14,8 @@ The latest rabbithole : AI and how it effects the household.
  * Real life applications in household finances.
  * Task management
  * Potty training predictor
-<br>
+<b>
+</b>
 Review Python Fundamentals
 <br>
 Selecting the best certification for AI and Machine Learning
