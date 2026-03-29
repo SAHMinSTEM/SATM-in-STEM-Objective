@@ -12,10 +12,14 @@ A community for women with an interest in all things STEM and the rapidly growin
 
 The latest rabbithole : AI and how it effects the household.
  * Real life applications in household finances.
- * Task management
+ * Task Management
  * Potty training predictor
 <br>
 Review Python Fundamentals
 <br>
 Selecting the best certification for AI and Machine Learning
 <br>
+
+# Food for thought
+
+* Why do typically dicuss the concepts of women becoming mothers as damage control in the corporate world , rather than something to embrace, with understanding that motherhood may enhance certain skills, that are benefical to the work environment?
