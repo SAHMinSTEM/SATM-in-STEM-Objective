@@ -23,4 +23,4 @@ Selecting the best certification for AI and Machine Learning
 
 # Food for thought
 
-* Why do typically dicuss the concepts of women becoming mothers as damage control in the corporate world , rather than something to embrace, with understanding that motherhood may enhance certain skills, that are benefical to the work environment?
+* Why do we typically discuss the concepts of women transition from being a SATM as damage control, rather than something to embrace, with understanding that motherhood may enhance certain skills and capabilities that are beneficial to the work environment?
